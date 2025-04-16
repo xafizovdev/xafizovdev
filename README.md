@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xafizovdev
-- 👀 I’m interested in programming and playing chess
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on Full-Stack and Cyber security
+- 👋 Hi, I’m G'iyosiddin Xafizov
+- 👀 I’m interested in hacking and playing chess
+- 🌱 I’m currently learning PYTHON and pentesting
+- 💞️ I’m looking to collaborate on Cyber security
 - 📫 How to reach me xafizovgiyosiddin17@gmail.com
 
 <!---
